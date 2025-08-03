@@ -1,0 +1,66 @@
+🔐 Privacy Policy for Invitation Bot
+
+Effective Date: February 5, 2026
+
+This Privacy Policy explains how Invitation Bot (“the Bot”) handles data when it is added to a Discord server and interacts with users.
+
+⸻
+
+1. Information We Collect
+
+When the Bot is added to a server, it may temporarily collect the following data:
+	•	Your Discord User ID
+	•	The Server ID and Server Name
+	•	A timestamp of when the Bot was added
+
+This information is used solely to send a one-time welcome message (via DM) to the server owner.
+
+⸻
+
+2. What We Don’t Collect
+	•	❌ No messages or conversations are logged
+	•	❌ No personal information (such as names, emails, or IP addresses) is collected
+	•	❌ No usage activity is tracked or monitored
+
+The Bot does not listen to or store message content or voice interactions in any way.
+
+⸻
+
+3. How Your Data Is Used
+
+The limited data we collect is used exclusively for:
+	•	Sending a one-time direct message to the server owner that includes a recommended server invite link.
+
+This data is not stored permanently, and is never shared, sold, or transferred to any third parties.
+
+⸻
+
+4. Data Retention
+
+The Bot does not retain any data beyond what is required to function during that brief session. Once the message is sent (or fails to send), the data is discarded.
+
+⸻
+
+5. Data Sharing
+
+We do not share any user or server data with third parties.
+
+⸻
+
+6. Security
+
+Although the Bot only handles minimal and non-sensitive data, we take reasonable precautions to protect that data during its brief use. The Bot runs on a secure and access-controlled environment.
+
+⸻
+
+7. Your Rights
+
+Because no persistent personal data is collected or stored, there is generally nothing to delete or manage. However, if you have concerns or would like to request information about how the Bot interacted with your server, you may contact us.
+
+⸻
+
+8. Contact
+
+If you have any questions or concerns about this policy or how the Bot operates, you can reach the developer at:
+
+📧 sssdogy@gmail.com
